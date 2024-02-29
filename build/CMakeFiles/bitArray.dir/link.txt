@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bitArray.dir/scr/main.cpp.o CMakeFiles/bitArray.dir/scr/BitArray.cpp.o -o bitArray 
