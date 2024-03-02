@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/tests.dir/Tests.cpp.o CMakeFiles/tests.dir/__/scr/BitArray.cpp.o -o tests  ../lib/libgtest_main.a ../lib/libgtest.a 

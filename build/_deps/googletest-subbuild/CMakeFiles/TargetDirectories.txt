@@ -1,3 +1,0 @@
-/mnt/d/Загрузки/OOP-main/BitArray/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/mnt/d/Загрузки/OOP-main/BitArray/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/mnt/d/Загрузки/OOP-main/BitArray/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
